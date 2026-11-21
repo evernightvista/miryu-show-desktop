@@ -1,0 +1,22 @@
+# Translation of showdesktop in LANGUAGE
+# Copyright (C) 2026
+# This file is distributed under the same license as the showdesktop package.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: showdesktop\n"
+"Report-Msgid-Bugs-To: https://github.com/evernightvista/miryu-show-desktop/issues\n"
+"POT-Creation-Date: 2026-11-21 10:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../contents/ui/ShowDesktopController.qml
+msgctxt "@action:button"
+msgid "Show desktop"
+msgstr ""

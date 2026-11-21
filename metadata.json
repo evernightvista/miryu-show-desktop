@@ -1,0 +1,40 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "13278297951@sina.cn",
+                "Name": "KairikiFedora"
+            }
+        ],
+        "BugReportUrl": "https://github.com/evernightvista/miryu-show-desktop/issues",
+        "Category": "Windows and Tasks",
+        "Description": "Windows 11 style show-desktop sliver. Minimizes all windows on click.",
+        "Description[de]": "Schmaler Streifen zum Anzeigen der Arbeitsfläche im Windows-11-Stil. Minimiert beim Anklicken alle Fenster.",
+        "Description[fr]": "Fine bande « Afficher le bureau » de style Windows 11. Réduit toutes les fenêtres au clic.",
+        "Description[ja]": "Windows 11 スタイルのデスクトップ表示用スリバー。クリックするとすべてのウィンドウを最小化します。",
+        "Description[ko]": "Windows 11 스타일의 바탕 화면 표시 슬리버입니다. 클릭하면 모든 창이 최소화됩니다.",
+        "Description[zh_CN]": "Windows 11 风格的显示桌面窄条，点击后最小化所有窗口。",
+        "Description[zh_TW]": "Windows 11 風格的顯示桌面窄條，點擊後最小化所有視窗。",
+        "EnabledByDefault": true,
+        "FormFactors": [
+            "desktop"
+        ],
+        "Icon": "user-desktop",
+        "Id": "org.miryugaming.showdesktop",
+        "License": "MIT",
+        "Name": "Show Desktop (Windows Modern)",
+        "Name[de]": "Arbeitsfläche anzeigen (Windows Modern)",
+        "Name[fr]": "Afficher le bureau (Windows Modern)",
+        "Name[ja]": "デスクトップを表示 (Windows Modern)",
+        "Name[ko]": "바탕 화면 표시 (Windows Modern)",
+        "Name[zh_CN]": "显示桌面（Windows Modern）",
+        "Name[zh_TW]": "顯示桌面（Windows Modern）",
+        "Version": "45.0.0",
+        "Website": "https://github.com/evernightvista/miryu-show-desktop"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-Provides": [
+        "org.kde.plasma.windowmanagement"
+    ]
+}
